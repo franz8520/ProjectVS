@@ -1,3 +1,3 @@
 # ProjectVS
 Proyecto de prueba
-Esto solamente es un ensayo virtual usando mi priemra vez GitHub
+Esto solamente es un ensayo virtual usando mi primera vez GitHub
